@@ -98,3 +98,5 @@ CDMXSOAI/user/static/
 CDMXSOAI/Include/
 CDMXSOAI/static/
 media/
+
+*.pickle
