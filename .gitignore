@@ -100,3 +100,9 @@ CDMXSOAI/static/
 media/
 
 *.pickle
+*.DUSMCPUB
+*.gz
+
+CDMXSOAI/Workshops/04th_Workshop/data/
+CDMXSOAI/Workshops/04th_Workshop/data/ccFraud.csv.gz
+CDMXSOAI/Workshops/04th_Workshop/data/VS14MORT.DUSMCPUB
